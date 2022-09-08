@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://rowadz.com/">Personal Site</a> •
   <a href="https://www.youtube.com/channel/UC1Uw_GN4sodGisimwZNzMoA">Youtube</a> •
-  <a href="https://www.linkedin.com/in/mohammed-al-rowad/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/rowadz/">LinkedIn</a>
 </p>
 
 <!--
@@ -15,10 +15,10 @@
 -->
 
 Personal projects:
-- 💡 [pollux](https://Rowadz.github.io/pollux/): **A drag and drop website for mocking RESTFUL APIs, GraphQL APIs and fake data in various formats** => [video](https://youtu.be/4Kwv98RDoSM)
+- 💡 [pollux](https://pollux.dev/): **A drag and drop website for mocking RESTFUL APIs, GraphQL APIs and fake data in various formats** => [video](https://youtu.be/4Kwv98RDoSM)
 - 🌑 [Falak](https://github.com/Rowadz/Falak): A real-time nodejs server for CRUD operations that happened in MySQL (it monitors the binary logs and emit web socket events of the changes).
-- 💡 [Erela](https://Rowadz.github.io/Erela/#/): TypeScript / Nodejs framework for creating simple APIs ( supports DB migrations - DI - routing controls).
-- 💡 [Vexpest](https://Rowadz.github.io/vexpest_V2/#/): a github dashboard generator.
+- 💡 [Erela](https://rowadz.github.io/Erela/#/): TypeScript / Nodejs framework for creating simple APIs ( supports DB migrations - DI - routing controls).
+- 💡 [Vexpest](https://rowadz.github.io/vexpest_V2/#/): a github dashboard generator.
 
 
 <!--
