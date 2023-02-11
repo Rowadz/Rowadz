@@ -14,7 +14,9 @@
 />
 -->
 
-Personal projects:
+I'm an engineer that enjoyes teaching and building 😌
+
+Old personal projects:
 - 💡 [pollux](https://pollux.dev/): **A drag and drop website for mocking RESTFUL APIs, GraphQL APIs and fake data in various formats** => [video](https://youtu.be/4Kwv98RDoSM)
 - 🌑 [Falak](https://github.com/Rowadz/Falak): A real-time nodejs server for CRUD operations that happened in MySQL (it monitors the binary logs and emit web socket events of the changes).
 - 💡 [Erela](https://rowadz.github.io/Erela/#/): TypeScript / Nodejs framework for creating simple APIs ( supports DB migrations - DI - routing controls).
