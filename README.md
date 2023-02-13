@@ -14,7 +14,7 @@
 />
 -->
 
-I'm an engineer that enjoyes teaching and building 😌
+I'm an engineer that enjoys teaching and building 😌
 
 Old personal projects:
 - 💡 [pollux](https://pollux.dev/): **A drag and drop website for mocking RESTFUL APIs, GraphQL APIs and fake data in various formats** => [video](https://youtu.be/4Kwv98RDoSM)
