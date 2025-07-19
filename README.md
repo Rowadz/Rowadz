@@ -1,3 +1,5 @@
+<h3 align="center">Hi 👋</h3>
+
 <!--
 <h3 align="center">Hi I'm Rowadz</h3>
 
