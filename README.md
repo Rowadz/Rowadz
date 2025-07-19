@@ -1,3 +1,4 @@
+<!--
 <h3 align="center">Hi I'm Rowadz</h3>
 
 <p align="center">
@@ -12,7 +13,7 @@
   align="right"
   src="https://github-readme-stats.vercel.app/api?username=Rowadz&show_icons=true&theme=prussian&include_all_commits=true&count_private=true&langs_count=true"
 />
--->
+
 
 I'm an engineer that enjoys teaching and building 😌
 
