@@ -1,5 +1,9 @@
 <h3 align="center">Hi 👋</h3>
 
+I'm an engineer that enjoys [teaching](https://www.youtube.com/@rowadz) and building 😌
+
+Check my [website](https://rowadz.github.io/me/) for more info
+
 <!--
 <h3 align="center">Hi I'm Rowadz</h3>
 
