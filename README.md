@@ -1,6 +1,6 @@
 <h3 align="center">
 
-I'm an engineer that enjoys <a href="https://www.youtube.com/@rowadz">teaching</a> and building 😌
+I'm an engineer that enjoys <a href="https://www.youtube.com/@rowadz">teaching</a> and building
 
 My [website](https://rowadz.github.io/me/)
   
