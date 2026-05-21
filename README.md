@@ -1,10 +1,10 @@
-<h3 align="center">
+<h4 align="">
 
-I'm an engineer that enjoys <a href="https://www.youtube.com/@rowadz">teaching</a> and building
+I'm an engineer that enjoys <a href="https://www.youtube.com/@rowadz">teaching</a> and building.
 
-My [website](https://rowadz.github.io/me/)
+My [website](https://rowadz.github.io/me/).
   
-</h3>
+</h4>
 
 <!--
 <h3 align="center">Hi I'm Rowadz</h3>
